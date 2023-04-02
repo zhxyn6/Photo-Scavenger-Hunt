@@ -8,9 +8,8 @@ Time spent: **20** hours spent in total
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+<img src="https://user-images.githubusercontent.com/114776583/226514474-d7d16595-a9c8-459a-b280-b15aa616dcdb.gif" width="300" height="450" />
 
-![1_AdobeExpress](https://user-images.githubusercontent.com/114776583/226514474-d7d16595-a9c8-459a-b280-b15aa616dcdb.gif)
 
 
 ## Required Features
