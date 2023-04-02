@@ -6,6 +6,13 @@ Submitted by: **Xinran Zhao**
 
 Time spent: **20** hours spent in total
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+![1_AdobeExpress](https://user-images.githubusercontent.com/114776583/226514474-d7d16595-a9c8-459a-b280-b15aa616dcdb.gif)
+
+
 ## Required Features
 
 The following **required** functionality is completed:
@@ -23,13 +30,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![1_AdobeExpress](https://user-images.githubusercontent.com/114776583/226514474-d7d16595-a9c8-459a-b280-b15aa616dcdb.gif)
-
 
 ## Notes
 
